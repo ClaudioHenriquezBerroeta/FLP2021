@@ -13,5 +13,5 @@ int main(){
 	scanf("%i",b);
 	printf("El numero con puntero es: %i\n", *b);
 	free(b);
-
+	return 0;
 }
